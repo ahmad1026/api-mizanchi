@@ -7,7 +7,7 @@ const app = express()
 
 app.get('/' , (req , resp)=>{
     return resp.json({
-        name:"ahmad"
+        name:"ahmadd"
     })
 })
 
